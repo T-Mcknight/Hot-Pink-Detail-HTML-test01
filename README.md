@@ -1,2 +1,2 @@
-#Hot-Pink-Detail-HTML-test01
+Hot-Pink-Detail-HTML-test01
 Html based website
